@@ -1,6 +1,6 @@
 # Label-Distribution-Learning-Machine
 
-Code for ICML'21 paper: "Label Distribution Learning"
+##Code for ICML'21 paper: "Label Distribution Learning"
 
 Use our code and cite
 >@InProceedings{wang_label_2021,
@@ -16,4 +16,4 @@ Use our code and cite
 
 
 ## How to use
-python LDLHR.py
+python run_LDLM.py
