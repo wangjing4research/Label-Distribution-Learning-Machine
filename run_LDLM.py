@@ -55,7 +55,7 @@ def run_KF(dataset):
 
 if __name__ == "__main__":
     
-    datasets = ["Movie"]
+    datasets = ["SJAFFE"]
     for dataset in datasets:
         run_KF(dataset)
 
