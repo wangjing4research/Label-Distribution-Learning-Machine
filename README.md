@@ -1,2 +1,3 @@
 # Label-Distribution-Learning-Machine
-Label Distribution Learning Machine (LDLM)
+
+Code for ICML'21 paper: "Label Distribution Learning"
