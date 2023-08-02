@@ -5,14 +5,12 @@
 Use our code and cite
 
 >@InProceedings{wang_label_2021,
-  >title = 	 {Label Distribution Learning Machine},
-  >author =       {Wang, Jing and Geng, Xin},
-  >booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
-  >pages = 	 {10749--10759},
-  >year = 	 {2021},
-  >month = 	 {July},
-}
-
+  title = 	 {Label Distribution Learning Machine},
+  author =       {Wang, Jing and Geng, Xin},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {10749--10759},
+  year = 	 {2021},
+  month = 	 {July},
 >}
 
 
