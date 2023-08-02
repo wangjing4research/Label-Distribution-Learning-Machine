@@ -1,6 +1,6 @@
 # Label Distribution Learning Machine
 
-##Code for ICML'21 paper: "Label Distribution Learning Machine"
+## Code for ICML'21 paper: "Label Distribution Learning Machine"
 
 Use our code and cite
 >@InProceedings{wang_label_2021,
